@@ -1,4 +1,4 @@
-% Temperature Distribution in a Straight Fin
+% Temperature Distribution in a Straight Fin using FDM
 
 % Parameters
 L = 4e-2; % Length of the fin (m)
