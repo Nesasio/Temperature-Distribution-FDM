@@ -22,4 +22,4 @@ The distance between grid points $\Delta x$ was taken as $0.5cm$.
 
 The temperature distribution curve is shown as below:
 
-![image](https://github.com/Nesasio/Temperature-Distribution-FDM/assets/110229836/06430183-5cd0-4611-bfa6-dba46adcce5c)
+![image](https://github.com/Nesasio/Temperature-Distribution-FDM/assets/110229836/3d8ef1ff-bb7d-4686-bca5-ead03c45e1bb)
