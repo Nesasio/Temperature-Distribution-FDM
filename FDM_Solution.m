@@ -40,7 +40,7 @@ Mat_A = [-(2+A) 1 0 0 0 0 0 0;
 Mat_B = [-A*Ta-Tb; -A*Ta; -A*Ta; -A*Ta; -A*Ta; -A*Ta; -A*Ta; -A*Ta];
 
 % Solving the equations
-T = linsolve(Mat_A, Mat_B)
+T = linsolve(Mat_A, Mat_B);
 
 % Plotting
 figure(1);
