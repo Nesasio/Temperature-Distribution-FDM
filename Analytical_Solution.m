@@ -1,4 +1,5 @@
 % Temperature Distribution in a Straight Fin using Analytical Method
+% Author: Ansh Saxena, Indian Institute of Technology, Patna
 
 % Parameters
 L = 4e-2; % Length of the fin (m)
