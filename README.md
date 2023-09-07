@@ -1,2 +1,2 @@
 # Temperature-Distribution-FDM
- Temperature Distribution of a Straight Fin using FDM
+This repository contains the implementation of temperature dirstribution in a straight fin problem in MATLAB.
