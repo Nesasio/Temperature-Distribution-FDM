@@ -14,3 +14,4 @@ Finite Difference Method (FDM) was used to determine the temperature distributio
 ## Analytical Solution
 It is assumed that the tip of the fin is insulated. The analytical solution of the problem is as follows.
 $$\frac{ T(x) - T_\infty }{ T_b - T_\infty } = \frac{ \cosh m(L - x) }{ \cosh mL }$$
+where $\displaystyle m=\sqrt{ \frac{hP}{kA_c} }$
