@@ -11,7 +11,7 @@ k = 45; % Conductivity of fin material (W/m-K)
 h = 15; % Heat transfer coefficient (W/m2-K)
 
 del_x = 0.5e-2; % Distance between two grid points (delta_x)
-m = sqrt(L*P/(k*Ac));
+m = sqrt(h*P/(k*Ac));
 
 T = []; % Temperature array
 
