@@ -13,7 +13,6 @@ del_x = 0.5e-2; % Distance between two grid points (delta_x)
 m = sqrt(L*P/(k*Ac));
 
 T = []; % Temperature array
-T(1) = Tb;
 
 for x=0:1:8
     T(x+1) = (Tb-Ta)*(cosh(m*(L-(x*del_x)))/cosh(m*L)) + Ta;
