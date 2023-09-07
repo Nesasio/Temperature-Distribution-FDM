@@ -13,7 +13,7 @@ k = 45; % Conductivity of fin material (W/m-K)
 h = 15; % Heat transfer coefficient (W/m2-K)
 
 del_x = L/(n-1);
-x = linspace(0, L*100, n-1);
+x = linspace(0, L*100, n);
 A = (h*P*(del_x)^2)/(k*Ac);
 
 % Initializing Coefficient Matrix
@@ -41,9 +41,17 @@ end
 % Solving the Equations
 Mat_Temp = linsolve(Mat_A', Mat_B');
 
+% Temperature Values
+T = zeros(1, n);
+T(1, 1) = Tb;
+
+for i=2:1:n
+    T(1, i) = Mat_Temp(i-1, 1);
+end
+
 % Plotting the Temperature Distribution
 figure(1)
-plot(x, Mat_Temp, 'ro', 'LineWidth', 3, 'MarkerSize', 2);
+plot(x, T, 'r-', 'LineWidth', 3, 'MarkerSize', 2);
 xlabel('Length (cm)');
 ylabel('Temperature (K)');
 title('Temperature Distribution in a Straight Fin');
