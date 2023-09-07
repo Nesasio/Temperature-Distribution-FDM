@@ -21,4 +21,5 @@ The temperature distribution was calculated at every grid point using FDM.
 The distance between grid points $\Delta x$ was taken as $0.5cm$.
 
 ![image](https://github.com/Nesasio/Temperature-Distribution-FDM/assets/110229836/4064e3b4-96da-43ef-b742-cee0e4d1f851)
+
 *Temperature Plot*
