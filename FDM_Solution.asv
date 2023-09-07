@@ -44,6 +44,4 @@ T = linsolve(Mat_A, Mat_B)
 % Plotting
 figure(1);
 plot(T);
-xlabel("Grid point")
-ylabel("Temperature (K)")
-title("Temperature Distribution in a Straight Fin")
+xlabel(")
