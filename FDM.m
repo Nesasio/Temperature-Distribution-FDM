@@ -1,7 +1,8 @@
 % Temperature Distribution in a Straight Fin using FDM
-% Author: Ansh Saxena, Indian Institute of Technology, Patna
+% Ansh Saxena, Indian Institute of Technology, Patna
 
-n = 50; % Number of Grid Points
+n = 25; % Number of Grid Points
+% Minimum number of grid points should be 3
 
 % Parameters
 L = 4e-2; % Length of the fin (m)
