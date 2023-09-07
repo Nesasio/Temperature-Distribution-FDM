@@ -9,3 +9,4 @@ Finite Difference Method (FDM) was used to determine the temperature distributio
 - Base Temperature of the Fin: $T_b=225\degree C$
 - Ambient Temperature: $T_\infty=25\degree C$
 - Conductivity of the Fin Material: $k=45W/m K$
+- Convection Heat Transfer Coefficient: $h=15W/m^2K$
