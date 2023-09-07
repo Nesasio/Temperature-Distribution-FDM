@@ -5,7 +5,7 @@ Finite Difference Method (FDM) was used to determine the temperature distributio
 ## Parameters
 - Length of the Fin: $L=4cm$
 - Perimeter of the Fin: $P=40.4cm$
-- Cross-section Area: $A_c=cm^2$
+- Cross-section Area: $A_c=4cm^2$
 - Base Temperature of the Fin: $T_b=225\degree C$
 - Ambient Temperature: $T_\infty=25\degree C$
 - Conductivity of the Fin Material: $k=45W/m K$
