@@ -10,3 +10,6 @@ Finite Difference Method (FDM) was used to determine the temperature distributio
 - Ambient Temperature: $T_\infty=25\degree C$
 - Conductivity of the Fin Material: $k=45 W/m K$
 - Convection Heat Transfer Coefficient: $h=15 W/m^2K$
+
+## Analytical Solution
+It is assumed that the tip of the fin is insulated. The analytical solution of the problem is as follows.
