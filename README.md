@@ -18,3 +18,4 @@ where $\displaystyle m=\sqrt{ \frac{hP}{kA_c} }$
 
 ## Finite Difference Method
 The temperature distribution was calculated at every grid point using FDM.
+The distance between grid points $\Delta x$ was taken as $0.5cm$
