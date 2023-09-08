@@ -1,4 +1,4 @@
-# Temperature-Distribution-FDM
+# 1-D Temperature Distribution in a Straight Fin using FDM 
 This repository contains the implementation of temperature dirstribution in a straight fin problem in [MATLAB](https://www.mathworks.com/products/matlab.html).
 [Finite Difference Method (FDM)](https://en.wikipedia.org/wiki/Finite_difference_method) was used to determine the temperature distribution at the grid point.
 
