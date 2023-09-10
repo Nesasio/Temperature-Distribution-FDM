@@ -12,7 +12,7 @@ This repository contains the implementation of temperature dirstribution in a fi
 - Convection Heat Transfer Coefficient: $h=15 W/m^2K$
 
 ## Analytical Solution
-It is assumed that the tip of the fin is insulated. The analytical solution of the problem is as follows.
+It is assumed that the tip of the fin is insulated. The analytical solution of the problem is as follows:
 $$\frac{ T(x) - T_\infty }{ T_b - T_\infty } = \frac{ \cosh m(L - x) }{ \cosh mL }$$
 where $\displaystyle m=\sqrt{ \frac{hP}{kA_c} }$
 
