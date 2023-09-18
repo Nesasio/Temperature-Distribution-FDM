@@ -17,8 +17,8 @@ $$\frac{ T(x) - T_\infty }{ T_b - T_\infty } = \frac{ \cosh m(L - x) }{ \cosh mL
 where $\displaystyle m=\sqrt{ \frac{hP}{kA_c} }$
 
 ## Finite Difference Method
-The temperature distribution was calculated at every grid point using FDM.
-The distance between grid points $\Delta x$ was taken as $0.5cm$.
+The temperature distribution is calculated at every grid point using FDM.
+The distance between grid points $\Delta x$ is taken as $0.5cm$.
 
 The temperature distribution curve is shown as below:
 
