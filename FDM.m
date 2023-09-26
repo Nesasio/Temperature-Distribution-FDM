@@ -1,5 +1,4 @@
 % Temperature Distribution in a Straight Fin using FDM
-% Ansh Saxena, Indian Institute of Technology, Patna
 
 n = 25; % Number of Grid Points
 % Minimum number of grid points should be 3
