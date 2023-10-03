@@ -20,6 +20,3 @@ where $\displaystyle m=\sqrt{ \frac{hP}{kA_c} }$
 The temperature distribution is calculated at every grid point using FDM.
 The distance between grid points $\Delta x$ is taken as $0.5cm$.
 
-The temperature distribution curve is shown as below:
-
-![Image](https://github.com/Nesasio/Temperature-Distribution-FDM/assets/110229836/3d8ef1ff-bb7d-4686-bca5-ead03c45e1bb)
